@@ -1,0 +1,12 @@
+{
+  "name": "classroom-gps",
+  "version": "1.0.0",
+  "description": "A microservice to share dynamic GPS coordinates",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
